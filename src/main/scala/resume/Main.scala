@@ -13,7 +13,7 @@ object Main extends App {
     verify()
   }
 
-  File("site").createIfNotExists(true)
+//  File("site").createIfNotExists(true)
 
   def at(url: String, content: String) = a(href := url, target := "_blank", content)
 
@@ -155,7 +155,7 @@ object Main extends App {
     )
   )
 
-  val indexFile = File("site/index.html").overwrite(content)
+  val indexFile = File("index.html").overwrite(content)
   if (Conf.browser()) {
     Desktop.getDesktop.browse(indexFile.uri)
   }
