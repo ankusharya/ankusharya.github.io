@@ -138,7 +138,7 @@ object Main extends App {
           div(cls := "col-sm-2", h3(i("Education"))),
           div(
             cls := "col-sm-10",
-            h3("Centurion University of Technology and Management", br, small("Sep 2007 - Jun 2011")),
+            h3("Centurion University of Technology and Management", br, small("Sep 2012 - Jun 2016")),
             p("Bachelor Computer Science. Gold Medalist. CGPA 9.1")
           )
         ),
