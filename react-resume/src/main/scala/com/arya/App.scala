@@ -29,7 +29,7 @@ object ReactLogo extends js.Object
                 "Ankush Singh",
                 List(
                   ProfileStructure(
-                    "https://scontent.fbom19-1.fna.fbcdn.net/v/t1.0-9/71515453_203833747310004_5285722350317207552_o.jpg?_nc_cat=105&_nc_sid=85a577&_nc_ohc=VlzPdvywcaQAX8k3epI&_nc_ht=scontent.fbom19-1.fna&oh=3aafe019b718d6a4337f33a9ebd437b8&oe=5F430885",
+                    "https://media-exp1.licdn.com/dms/image/C5103AQHA72PagfaEUw/profile-displayphoto-shrink_400_400/0/1553801208705?e=1617840000&v=beta&t=dR2hdPRNUT9BAw5PCygxNQrXzMEPVkdV1pNxnqAOUck",
                     List("Contact Me","ankush.singh.2250@gmail.com")
                   )
                 )
